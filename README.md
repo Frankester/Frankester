@@ -1,6 +1,6 @@
-<h1>Desarrollador Fullstack jr 🔥</h1>
+<h1>Desarrollador Fullstack 🔥</h1>
 
 - 👋 Hola me llamo Franco Callero
-- 👀 Soy desarrollador Frontend en React con javascript y typescript
-- 🌱 En la seccion de repositorios podrán ver mis proyectos creados
-- 📩 Cualquier cosa consulta pueden mandarme un mail a francotomascallero@gmail.com
+- 👀 Soy desarrollador Fullstack en MERN con javascript u typescript
+- 🌱 En mis repositorios, solo van a ver proyectos frontend personales.
+- 📩 Cualquier consulta pueden hacerlo a mi mail: francotomascallero@gmail.com
