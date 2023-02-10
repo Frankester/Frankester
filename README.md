@@ -3,5 +3,5 @@
 
 - 👋 Hola me llamo Franco Callero
 - 👀 Soy desarrollador Fullstack con Spring Boot & React
-- 🌱 En mis repositorios, van a ver solo algunos proyectos personales que realice.
+- 🌱 En mis repositorios, van a ver solo algunos proyectos personales que voy realizando.
 - 📩 Cualquier consulta pueden hacerlo a mi mail: francotomascallero@gmail.com
