@@ -1,7 +1,7 @@
  
 👋 ¡Hola!, Soy Franco Callero, un apasionado desarrollador Backend con experiencia en <b>Java y Spring Boot</b>, actualmente estudiante de Ingeniería en <b>Sistemas de Información</b> en la UTN.
 
-Estoy buscando oportunidades como desarrollador Backend, y en mis repositorios encontrarás proyectos personales y ejemplos prácticos que demuestran mis habilidades. También incluyo proyectos en los que he explorado tecnologías específicas para expandir mi conocimiento
+Estoy buscando oportunidades como desarrollador Fullstack/Backend, y en mis repositorios encontrarás proyectos personales y ejemplos prácticos que demuestran mis habilidades. También incluyo proyectos en los que he explorado tecnologías específicas para expandir mi conocimiento
 
 ## Habilidades
 <b>Backend</b>: [![Java](https://img.shields.io/badge/Java-2023123?style=for-the-badge&logo=java&logoColor=white&labelColor=101010&color=e69019)]() [![SpringBoot](https://img.shields.io/badge/SpringBoot-2023123?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010&color=2fe02f)]()
